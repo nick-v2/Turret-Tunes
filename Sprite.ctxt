@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height\ frames
+comment0.target=Sprite(int,\ int,\ int,\ int,\ java.awt.image.BufferedImage[])
+comment1.params=
+comment1.target=void\ nextFrame()
+comment2.params=x
+comment2.target=void\ skipToFrame(int)
+numComments=3

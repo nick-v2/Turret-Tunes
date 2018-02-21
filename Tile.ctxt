@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ i
+comment0.target=Tile(int,\ int,\ java.awt.image.BufferedImage)
+comment1.params=x\ y\ i\ visible
+comment1.target=Tile(int,\ int,\ java.awt.image.BufferedImage,\ boolean)
+comment2.params=x\ y\ width\ height\ i\ visible
+comment2.target=Tile(int,\ int,\ int,\ int,\ java.awt.image.BufferedImage,\ boolean)
+numComments=3
