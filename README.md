@@ -31,3 +31,4 @@ This project is licensed under the GNU General Public Licence - see the [COPYING
 ## Acknowledgments
 
 * Valve, for making a great game
+* [Eli Delventhal](http://www.java-gaming.org/index.php?topic=24220.0) - Had a good design for the update loop, I modified it slightly though.
