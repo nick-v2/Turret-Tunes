@@ -26,7 +26,7 @@ This project is licensed under the GNU General Public Licence - see the [COPYING
 
 ## Documentation
 
-* [Auto-generated Javadoc] (https://njvnba11.github.io/Turret-Tunes/)
+* [Auto-generated Javadoc](https://njvnba11.github.io/Turret-Tunes/)
 
 ## Acknowledgments
 
